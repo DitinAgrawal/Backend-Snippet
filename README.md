@@ -1,3 +1,6 @@
-# env variables
+## PLEASE MAKE A .env FILE AND PUT BELOW VARIABLES INSIDE THE FILE
+
+### env variables
+
 1. PORT
 2. MONGODB_URI
